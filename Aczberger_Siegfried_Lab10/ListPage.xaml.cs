@@ -28,6 +28,7 @@ namespace Aczberger_Siegfried_Lab10
         }
         public ListPage()
         {
+            InitializeComponent();
         }
     }
 }
